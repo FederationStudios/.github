@@ -7,5 +7,5 @@ Use the following terms to find certain punishments. This list will be updated w
 |Roblox|Roblox TOS Offences|N/A|
 |Temp Ban|Temp Ban Offences|TBan does not work with this! Do not use TBan in place of Temp Ban, it will fail!|
 |Bypass|Bypassing Offences|Bypassing does not work. It will only flag "Bypassing chat filter"|
-|Rule|Game Rule Offenses|Rules is significantly different|
+|Rules|Game Rule Offenses|N/A|
 |RK|Random Killing|N/A|
