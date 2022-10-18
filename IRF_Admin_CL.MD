@@ -1,5 +1,5 @@
 # IRF Administration Changelog
-This was created in an attempt to reduce the content of messages sent developer updates across IRF servers.
+This was created in an attempt to reduce the content of messages sent in the developer updates channels across IRF servers.
 
 ---
 
