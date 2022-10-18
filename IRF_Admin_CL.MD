@@ -22,4 +22,4 @@ Salutations, members of the IRF. The Administration bot has been updated and I'd
 
 #2: https://tavis.page/files/mrps85dt.png
 
-![Example #2](https://tavis.page/files/slb8sjg3.png)
+![Example #2](https://tavis.page/files/mrps85dt.png)
