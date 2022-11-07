@@ -3,7 +3,7 @@ This was created in an attempt to reduce the content of messages sent in the dev
 
 ---
 
-## IRF Administration - v1.1.1
+## IRF Administration - v1.2.0
 Salutations, members of the IRF. The Administration bot has been updated and I'd like to address some changes.
 
 ### Fixes
