@@ -1,13 +1,18 @@
-# :wave: Hello, we are Federation Studios
+# ❗ Hello, we are Federation Studios
 
-This is the official Federation Studios GitHub account, operated by the developers of the Federation Studios. We create bots, scripts, and many other things to make the games you love operate smoothly while also trying to push the and help Roblox power imagination. We also work behind the scenes to ensure everything works properly and efficiently. You can find more details about us below.
+This is the official Federation Studios GitHub repository. Federation Studios is a Roblox-based Development Studio. We are the people behind some of the biggest games within the RWW2 (& more) genre! Some notable clients include the Immortal Robloxian Federation, a group with well over 400,000 members!
 
 ## Recruitment
-Do you want to work for the Federation Studios in a rewarding, professional studio tasked with engineering and development? Or are you trying to become an Engineer in the federation? Federation Studios acts as the IRF's primary working force on game development, asset engineering and script writing. Employing the most skilled workers of the Federation into creating high-quality and polished experiences. If that sounds like something you're interested in, you can apply when applications open. These will be announced in the [Military Discord server](https://discord.gg/uA2YqGbetY) in the [#department-shouts](https://discord.com/channels/451841329765548069/818521921808498708) channel.
+Do you want to work for Federation Studios? FS is a rewarding, professional studio tasked with engineering and development for both pre-established and startup Roblox groups. Federation Studios acts as a primary working force on game development, asset engineering and script writing, employing only the most skilled workers of the platform. 
+If that sounds like something you're interested in, we recommend you apply today. It is advised you prepare a portfolio alongside a list of previous employments. You can find the application within our [Discord Server](https://discord.gg/federationstudios)!
 
-![Recruitment Ad - Made by hieu77](https://tavis.page/files/myzebm1z.jpg)
+![FederationStudios](https://media.discordapp.net/attachments/1019449322267492353/1100456371142541402/image_46.png?width=806&height=201)
 
 ## Contact
 You can find us on these platforms
-- [Discord](https://discord.gg/uA2YqGbetY)
+- [Discord](https://discord.gg/federationstudios)
 - [Roblox](https://www.roblox.com/groups/4899462)
+- [Twitter](https://twitter.com/theFedStudios)
+
+Federation Studios
+Last updated 25/04/2023
